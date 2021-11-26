@@ -4,12 +4,14 @@
 <!-- Stats -- source: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Top Languages  -->
 <div>
-  <div align="left>
-    <a href="https://github.com/Chasetopher/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chasetopher&repo=github-readme-stats" />
-    </a>
-  </div>
-</div>
+    <div align="left">
+        <a href="#"><img alt="Chasetophers Github Stats" src="https://github-readme-stats.vercel.app/api?       username=Chasetopher&show_icons=true&include_all_commits=true&count_private=true&theme=city_lights&hide_border=true&bg_color=0D1117&title_color=6A4DFF&icon_color=6A4DFF" height="160"/></a>
+    </div>
+    <br>
+    <div align="right">
+        <a href="#"><img alt="<Chasetophers Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chasetopher&langs_count=10&layout=compact&theme=city_lights&hide_border=true&bg_color=0D1117&title_color=6A4DFF&icon_color=6A4DFF" height="160"/></a>
+    </div>
+</div>  
 
 
 <h2 align="center">Technologies</h2>
