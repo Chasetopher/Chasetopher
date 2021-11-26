@@ -1,6 +1,14 @@
 <h1 align="center">Chase Brackeen</h1>
 <br>
 <br>
+<!-- Stats -- source: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Top Languages  -->
+<div>
+  <div align="left>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chasetopher&layout=compact)](https://github.com/Chasetopher/github-readme-stats)
+  </div>
+</div>
+
 
 <h2 align="center">Technologies</h2>
 <div align="center">
