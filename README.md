@@ -7,7 +7,6 @@
     <div align="left">
         <img height="160" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=Chasetopher&theme=city_lights&border_color=61dafb&langs_count=13" alt=" wakatime"/>
     </div>
-    </div>
     <br>
     <div align="right">
         <a href="#"><img alt="<Chasetophers Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chasetopher&langs_count=10&layout=compact&theme=city_lights&hide_border=true&bg_color=0D1117&title_color=6A4DFF&icon_color=6A4DFF" height="160"/></a>
