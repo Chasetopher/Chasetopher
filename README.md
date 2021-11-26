@@ -5,7 +5,7 @@
 <!-- Top Languages  -->
 <div>
     <div align="left">
-        <img height="160" width="400" src="https://github-readme-stats.vercel.app/api/username=Chasetopher&theme=city_lights&border_color=61dafb&langs_count=13" alt=" wakatime"/>
+        <img height="160" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=Chasetopher&theme=city_lights&border_color=61dafb&langs_count=13" alt=" wakatime"/>
     </div>
     </div>
     <br>
