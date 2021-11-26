@@ -5,7 +5,9 @@
 <!-- Top Languages  -->
 <div>
   <div align="left>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chasetopher&layout=compact)](https://github.com/Chasetopher/github-readme-stats)
+    <a href="https://github.com/Chasetopher/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chasetopher&repo=github-readme-stats" />
+    </a>
   </div>
 </div>
 
