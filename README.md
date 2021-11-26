@@ -13,8 +13,8 @@
 <br>
 <br>
 <br>
-<div align="center">
 <h2 align="center">Technologies</h2>
+<div align="center">
 <!--  JS  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="55" width="auto" />
 <!--  CSS  -->
