@@ -45,8 +45,6 @@
 <br>
 <br>
 <h2 align="center">Connect</h2>
-<br>
-<br>
 <div align="center">
   <a href="mailto:chase.brackeen@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-CC6600?style=plastic&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/chase-brackeen" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white"></a>
