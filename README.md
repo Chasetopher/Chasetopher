@@ -42,4 +42,14 @@
 <!--  Git  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" width="auto" />
 </div>
-
+<br>
+<br>
+<h2 align="center">Connect</h2>
+<br>
+<br>
+<div align="center">
+  <a href="mailto:chase.brackeen@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-CC6600?style=plastic&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/chase-brackeen" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Chasetopher" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=plastic&logo=GitHub&logoColor=white"></a>
+  <a href="https://chasetopher.github.io/React-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=white"></a>
+</div>
