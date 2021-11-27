@@ -4,7 +4,7 @@
 <!-- Stats -- source: https://github.com/anuraghazra/github-readme-stats -->
 <div>
         <!-- GitHub Stats -->
-        <img align="left" height="160" width="auto" src="https://github-readme-stats.vercel.app/api?username=Chasetopher&count_private=true&theme=city_lights"/>
+        <img align="left" height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=Chasetopher&count_private=true&theme=city_lights"/>
         <!-- Top Languages  -->
         <a href="#"><img align="right" alt="<Chasetophers Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chasetopher&langs_count=10&layout=compact&theme=city_lights&hide_border=true&bg_color=0D1117&title_color=6A4DFF&icon_color=6A4DFF" height="160"/></a>
 </div>  
